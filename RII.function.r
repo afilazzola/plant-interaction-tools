@@ -1,3 +1,4 @@
+## RII function
 ## Alex Filazzla
 ## August 24 2016
 ## function for rii

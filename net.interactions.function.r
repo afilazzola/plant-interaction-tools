@@ -1,3 +1,4 @@
+## Net interactions function
 ## Alex Filazzola and Christopher Lortie
 ## August 24 2016
 #Introduction ####

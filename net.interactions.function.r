@@ -1,3 +1,5 @@
+## Alex Filazzola and Christopher Lortie
+## August 24 2016
 #Introduction ####
 #W is a common character for fitness in models, and we adopt herein to match notational trends.
 #Background here: https://en.wikipedia.org/wiki/Fitness_(biology)

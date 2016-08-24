@@ -1,3 +1,5 @@
+## Alex Filazzla
+## August 24 2016
 ## function for rii
 #Armas, C., Ordiales, R., & Pugnaire, F. I. (2004). Measuring plant interactions: a new comparative indedata. Ecology, 85(10), 2682-2686.
 

@@ -1,3 +1,6 @@
+## Bootstrap RII
+## Alex Filazzola
+## August 24 2016
 ## Description
 # RII is an effect estimate proposed by Armas et al 2004 to compare a plants performance with neighbours and without.
 # It was generated from a similar index that compares a subjects success between control and treatment plots (t-c)/(t+c)
